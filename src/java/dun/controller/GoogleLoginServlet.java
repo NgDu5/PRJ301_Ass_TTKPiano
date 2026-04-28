@@ -29,9 +29,9 @@ public class GoogleLoginServlet extends HttpServlet {
     // TODO: Replace with your Google OAuth2 credentials
     // ---------------------------------------------------------------
  
-    
-    // tự tạo id, secret của bạn copy link dán vào bên dưới
- 
+    // tự tạo id, secret của bạn copy link dán vào bên dươi
+    private static final String CLIENT_ID = ""; 
+    private static final String CLIENT_SECRET = ""; 
 
 
     private static final String REDIRECT_URI
